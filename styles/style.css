@@ -1,9 +1,10 @@
 body {
     text-align: center;
+    background-color: greenyellow;
 }
 
 header {
-    background-color: blue;
+    background-color: rgb(0, 0, 255);
     height: 118px;
 }
 
