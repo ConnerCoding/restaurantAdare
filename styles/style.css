@@ -18,10 +18,16 @@ main {
 }
 
 footer {
-    background-color: green;
+    background-color: rgb(37, 201, 37);
     height: 100px;
 }
 
 p {
     margin: 0;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
 }
