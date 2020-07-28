@@ -20,6 +20,6 @@ Quick Start
 ```shell
 $ git clone https://github.com/r-park/soundcloud-ngrx.git
 $ cd soundcloud-ngrx
-$ npm install
-$ npm start
+$ run live server
+$ or simply open html file
 ```
