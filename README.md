@@ -18,8 +18,8 @@ Quick Start
 -----------
 
 ```shell
-$ git clone https://github.com/r-park/soundcloud-ngrx.git
-$ cd soundcloud-ngrx
+$ git clone https://github.com/ConnerCoding/restaurantAdare.git
+$ cd restaurantAdare
 $ run live server
 $ or simply open html file
 ```
