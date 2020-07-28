@@ -2,7 +2,7 @@
 
 Website for my prototype restaurant Adare
 
-![screenshot](http://i.imgur.com/A1Vlpi2.png)
+![screenshot](https://github.com/ConnerCoding/restaurantAdare/blob/master/images/logo-adare-restaurant.png)
 
 
 Stack
